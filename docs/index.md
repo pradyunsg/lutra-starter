@@ -14,4 +14,4 @@ The starter provides three things:
 getting-started
 ```
 
-[MyST-parser]:
+[MyST-parser]: https://myst-parser.readthedocs.io/en/latest/
