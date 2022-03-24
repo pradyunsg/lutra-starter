@@ -1,4 +1,6 @@
-"""A sphinx documentation configuration file.
+"""Sphinx build configuration.
+
+For more details: https://www.sphinx-doc.org/en/master/usage/configuration.html
 """
 
 # -- Project information ---------------------------------------------------------------
